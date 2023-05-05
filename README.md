@@ -1,4 +1,4 @@
-<center><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%" style="border-radius:10;"></center>
+<center><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%" style="border-radius:10;" "text-align: center";></center>
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Shaheryar</h1>
